@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+I'm a skilled Front-End developer with a strong proficiency in Angular and TypeScript. I enjoy working on challenging and innovative projects that make a positive impact on the world.
 
+My skill set includes:
+•  Technologies: Angular (NgRx, RxJs), TypeScript, JavaScript, HTML, CSS
+•  UI Libraries: Bootstrap, Angular Material, PrimeNg, Ant Design
+•  Tools: Ag Grid, Chart.js, Google Analytics, Maps SDKs, GitFlow, Jira
 
 - 🔭 I’m currently working at [Asa Co](https://asax.ir/)
 - 😄 Pronouns: he/him/his
