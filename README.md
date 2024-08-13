@@ -13,6 +13,5 @@ My skill set includes:
 - 👯 I’m looking to collaborate on international projects
 - 💬 Ask me about Angular, Clean coding
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/erfan-farhadi/)
-- 😄 Pronouns: he/him/his
 - ⚡ Hobbies: Painting, Movie, Music and Badminton
 
